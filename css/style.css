@@ -10,7 +10,7 @@
 }
 .img{ 
     width: 2000px;
-     height: 200px;
+     height: 420px;
      object-fit: cover; }
 body {
     background-color: var(--color5);
