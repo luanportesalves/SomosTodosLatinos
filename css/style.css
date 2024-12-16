@@ -163,9 +163,7 @@ figure {
     letter-spacing: 1px;
     border-radius: 6px;    
 }
-#conteudo {
-    display: none;
-}
+
 .info-container {
     text-align: center;
     justify-content: center;
