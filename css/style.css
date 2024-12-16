@@ -142,6 +142,7 @@ figure {
 .text-img {
     width: 275px;
     height: 183px;
+    margin-bottom: 5px;
 }
 .qrcode {
     justify-content: center;
@@ -153,6 +154,7 @@ figure {
     height: 650px;
 }
 .botao {
+    position: absolute;
     z-index: 1;
     display: block;
     background: var(--color2);
