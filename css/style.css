@@ -8,7 +8,7 @@
     --color4: #eac18d;
     --color5: #e0b12c;
 }
-.carousel-item img { 
+.img{ 
     width: 2000px;
      height: 200px;
      object-fit: cover; }
