@@ -169,6 +169,9 @@ figure {
     width: 147px;
     height: 52px;
     border-radius: 6px;    
+    line-height: 51px;
+    letter-spacing: 1px;
+    text-decoration: none;
 }
 
 .info-container {

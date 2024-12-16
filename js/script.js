@@ -2,6 +2,7 @@ function toggle(el) {
     var display = document.getElementById(el).style.display;
     if(display == "none") {
         document.getElementById(el).style.display = 'block';
+        document.getElementById(el).style.justifyContent = 'center';
     }
     else {
         document.getElementById(el).style.display = 'none';
