@@ -146,9 +146,10 @@ figure {
     justify-content: center;
     text-align: center;
 }
-.qrcode {
+#qrcode {
     justify-content: center;
     text-align: center;
+    display: none;
 }
 .proj {
     margin-bottom: 10px;
