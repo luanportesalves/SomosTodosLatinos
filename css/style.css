@@ -125,10 +125,6 @@ a {
     color: var(--color1);
 }
 
-.container {
-    border-radius: 4px;
-    padding: 5px;
-}
 
 figure {
     float: left;
@@ -149,6 +145,7 @@ figure {
 #conteudo {
     justify-content: center;
     text-align: center;
+    display: none;
 }
 .qrcode {
     justify-content: center;
