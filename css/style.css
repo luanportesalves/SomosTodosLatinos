@@ -150,6 +150,7 @@ figure {
 .container .py-5 {
     margin-bottom: 10px;
     padding-bottom: 10px;
+    height: 650px;
 }
 .botao {
     z-index: 1;
