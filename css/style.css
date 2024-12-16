@@ -161,9 +161,9 @@ figure {
 }
 .botao {
     z-index: 1;
-    display: block;
+    display: flex;
     background: var(--color2);
-    text-decoration: none;
+    box-shadow: none;
     color: #fff;
     width: 147px;
     height: 52px;
