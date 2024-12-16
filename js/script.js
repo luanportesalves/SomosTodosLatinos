@@ -1,12 +1,11 @@
-function toggle(qrcode) {
-    document.getElementsByClassName("qrcode").style.justifyContent = 'center';
+function toggle(el) {
     if(display == "none") {
-        document.getElementsByClassName("qrcode").style.display = 'block';
-        document.getElementsByClassName("qrcode").style.justifyContent = 'center';
+        document.getElementsByClassName(el).style.display = 'block';
+        document.getElementsByClassName(el).style.justifyContent = 'center';
     }
     else {
 
-        document.getElementsByClassName("qrcode").style.display = 'none';
-        document.getElementsByClassName("qrcode").style.justifyContent = 'center';
+        document.getElementsByClassName(el).style.display = 'none';
+        document.getElementsByClassName(el).style.justifyContent = 'center';
     }
 }
