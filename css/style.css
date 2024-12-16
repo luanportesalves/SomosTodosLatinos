@@ -115,6 +115,9 @@ a {
     width: 147px;
     height: 52px;
     border-radius: 6px;
+    line-height: 51px;
+    letter-spacing: 1px;
+    text-decoration: none;
 }
 
 .navigation {
@@ -143,6 +146,10 @@ figure {
     object-fit: cover;
     max-width: max-content;
 }
+#conteudo {
+    justify-content: center;
+    text-align: center;
+}
 .qrcode {
     justify-content: center;
     text-align: center;
@@ -161,8 +168,6 @@ figure {
     color: #fff;
     width: 147px;
     height: 52px;
-    line-height: 51px;
-    letter-spacing: 1px;
     border-radius: 6px;    
 }
 
