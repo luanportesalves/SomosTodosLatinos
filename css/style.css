@@ -55,7 +55,7 @@ nav {
     }
 }
 
-.grp:hover .btn::after {
+.grp:hover .btn::before {
     background-color: #595959;
 }
 
