@@ -154,13 +154,12 @@ figure {
     justify-content: center;
     text-align: center;
 }
-.container .py-5 {
+.container {
     margin-bottom: 10px;
     padding-bottom: 10px;
     height: 650px;
 }
 .botao {
-    position: absolute;
     z-index: 1;
     display: block;
     background: var(--color2);

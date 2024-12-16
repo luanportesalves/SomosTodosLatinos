@@ -1,10 +1,12 @@
-function toggle(el) {
-    var display = document.getElementById(el).style.display;
+function toggle(conteudo) {
+    var display = document.getElementById("conteudo").style.display;
     if(display == "none") {
-        document.getElementById(el).style.display = 'block';
-        document.getElementById(el).style.justifyContent = 'center';
+        document.getElementById("conteudo").style.display = 'block';
+        document.getElementById("conteudo").style.justifyContent = 'center';
     }
     else {
-        document.getElementById(el).style.display = 'none';
+
+        document.getElementById("conteudo").style.display = 'none';
+        document.getElementById("conteudo").style.justifyContent = 'center';
     }
 }
