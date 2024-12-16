@@ -143,7 +143,23 @@ figure {
     width: 275px;
     height: 183px;
 }
-
+.qrcode {
+    justify-content: center;
+    text-align: center;
+}
+.botao {
+    position: absolute;
+    z-index: 1;
+    display: block;
+    background: var(--color2);
+    text-decoration: none;
+    color: #fff;
+    width: 147px;
+    height: 52px;
+    line-height: 51px;
+    letter-spacing: 1px;
+    border-radius: 6px;    
+}
 .info-container {
     text-align: center;
     justify-content: center;
