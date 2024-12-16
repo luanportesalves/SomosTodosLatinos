@@ -10,7 +10,7 @@
 }
 .img{ 
     width: 2000px;
-     height: 420px;
+     height: 320px;
      object-fit: cover; }
 body {
     background-color: var(--color5);
@@ -90,11 +90,6 @@ h4{
 ul{
     text-align: left;
 }
-
-carousel-item img {
-     width: 2000px; height: 420px; object-fit: cover;
-    }
-
 
 
 .btn {
