@@ -1,12 +1,12 @@
 function toggle(el) {
-    var display = getElementsByClassName(el).style.display;
+    var display = getElementById(el).style.display;
     if(display == "none") {
-        document.getElementsByClassName(el).style.display = 'block';
+        document.getElementById(el).style.display = 'block';
 
     }
     else {
 
-        document.getElementsByClassName(el).style.display = 'none';
+        document.getElementById(el).style.display = 'none';
 
     }
 }
