@@ -8,10 +8,11 @@
     --color4: #eac18d;
     --color5: #e0b12c;
 }
-.img{ 
+img{ 
     width: 2000px;
      height: 320px;
-     object-fit: cover; }
+     object-fit: cover;
+}
 body {
     background-color: var(--color5);
     color: var(--color2);
