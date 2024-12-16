@@ -147,6 +147,10 @@ figure {
     justify-content: center;
     text-align: center;
 }
+.container .py-5 {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
 .botao {
     z-index: 1;
     display: block;
@@ -159,7 +163,7 @@ figure {
     letter-spacing: 1px;
     border-radius: 6px;    
 }
-.qrcode {
+#conteudo {
     display: none;
 }
 .info-container {
