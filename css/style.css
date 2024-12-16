@@ -139,6 +139,10 @@ figure {
     float: right;
     margin: 0 0 10px 10px;
 }
+.text-img {
+    width: 275px;
+    height: 183px;
+}
 
 .info-container {
     text-align: center;
