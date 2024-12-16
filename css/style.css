@@ -148,7 +148,6 @@ figure {
     text-align: center;
 }
 .botao {
-    position: absolute;
     z-index: 1;
     display: block;
     background: var(--color2);
@@ -159,6 +158,9 @@ figure {
     line-height: 51px;
     letter-spacing: 1px;
     border-radius: 6px;    
+}
+.qrcode {
+    display: none;
 }
 .info-container {
     text-align: center;
