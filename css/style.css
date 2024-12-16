@@ -111,12 +111,9 @@ a {
     z-index: 1;
     display: block;
     background: var(--color2);
-    text-decoration: none;
     color: #fff;
     width: 147px;
     height: 52px;
-    line-height: 51px;
-    letter-spacing: 1px;
     border-radius: 6px;
 }
 
@@ -143,6 +140,8 @@ figure {
     width: 275px;
     height: 183px;
     margin-bottom: 5px;
+    object-fit: cover;
+    max-width: max-content;
 }
 .qrcode {
     justify-content: center;
